@@ -16,30 +16,6 @@
 
 I'm a passionate developer with a love for creating elegant solutions to complex problems. I specialize in web development with experience across the full stack, from building responsive front-end interfaces to architecting scalable back-end systems.
 
-```javascript
-const brandon = {
-    pronouns: "he/him",
-    code: ["JavaScript", "Python", "PHP", "Java", "HTML", "CSS"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "ES6+"],
-            css: ["Bootstrap", "Tailwind", "Material-UI", "Sass"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            php: ["Laravel", "CodeIgniter"],
-            python: ["Django", "Flask"],
-            databases: ["MongoDB", "MySQL", "PostgreSQL", "Redis"]
-        },
-        devOps: ["Docker", "AWS", "GitHub Actions", "Nginx"],
-        tools: ["VS Code", "Git", "Postman", "Figma"]
-    },
-    architecture: ["RESTful", "GraphQL", "Microservices", "SPA"],
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm proud of it!"
-};
-```
-
 ## 🔥 Featured Projects
 
 ### 🌟 Software Development Learning Hub
