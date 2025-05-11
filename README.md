@@ -7,7 +7,7 @@
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/tadiekvx?label=Follow&style=social)](https://github.com/tadiekvx)
-  [![LinkedIn](https://img.shields.io/badge/-Brandon%20K-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/brandon-k)](https://linkedin.com/in/brandon-k)
+  [![LinkedIn](https://img.shields.io/badge/-Brandon%20K-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bkureya/)](https://www.linkedin.com/in/bkureya/)
   [![Email](https://img.shields.io/badge/-tadiekureya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tadiekureya@gmail.com)](mailto:tadiekureya@gmail.com)
   
 </div>
@@ -15,6 +15,7 @@
 ## 🚀 About Me
 
 I'm a passionate developer with a love for creating elegant solutions to complex problems. I specialize in web development with experience across the full stack, from building responsive front-end interfaces to architecting scalable back-end systems.
+
 
 ## 🔥 Featured Projects
 
@@ -128,7 +129,7 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-tadiekureya@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tadiekureya@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brandon%20K-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/brandon-k)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brandon%20K-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bkureya/)
   [![Twitter](https://img.shields.io/badge/Twitter-@tadiekvx-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tadiekvx)
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-lightgrey?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
   
