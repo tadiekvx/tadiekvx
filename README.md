@@ -19,43 +19,46 @@ I'm a passionate developer with a love for creating elegant solutions to complex
 
 ## 🔥 Featured Projects
 
-### 🌟 Software Development Learning Hub
-*A comprehensive learning platform for aspiring developers*
+### 🛒 Retail App
+*Modern retail management system with comprehensive inventory and sales tracking*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/tadiekvx/learning-hub)
-[![Demo](https://img.shields.io/badge/Demo-Live-green?style=flat-square)](https://your-demo-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/tadiekvx/retail-app)
 
-**Tech Stack:** PHP, JavaScript, Bootstrap, Prism.js, Font Awesome
+**Tech Stack:** Full-stack solution for retail management
 
-- Interactive sidebar navigation with smooth animations
-- Comprehensive tutorials for 6+ programming languages
-- Embedded YouTube videos for visual learning
-- Responsive design with mobile-first approach
-- Syntax highlighting for code examples
+- Point-of-sale system with barcode scanning
+- Real-time inventory management
+- Sales reporting and analytics
+- Multi-user support with role-based permissions
+- Customer management and loyalty programs
 
-### 📊 Real-Time Dashboard
-*Analytics dashboard with live data visualization*
+### 🏥 Remote Care
+*Healthcare application for remote patient monitoring and telemedicine*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/tadiekvx/realtime-dashboard)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/tadiekvx/remote-care)
 
-**Tech Stack:** React, Node.js, WebSockets, Chart.js, MongoDB
+**Tech Stack:** Modern telemedicine platform
 
-- Real-time data updates using WebSockets
-- Interactive charts and graphs
-- User authentication and role-based access
-- RESTful API with Express.js
+- Video consultation capabilities
+- Patient health data tracking
+- Prescription management
+- Appointment scheduling system
+- Secure medical records storage
+- Real-time notifications for patients and providers
 
-### 🛒 E-Commerce Platform
-*Full-stack e-commerce solution*
+### 🏦 Bank Management System
+*Comprehensive banking solution for modern financial institutions*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/tadiekvx/ecommerce-platform)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/tadiekvx/BankManagement)
 
-**Tech Stack:** Laravel, Vue.js, MySQL, Stripe API
+**Tech Stack:** Enterprise-level banking software
 
-- Product catalog with search and filtering
-- Shopping cart and checkout functionality
-- Payment integration with Stripe
-- Admin dashboard for inventory management
+- Account management and transactions
+- Loan processing and management
+- Secure authentication and authorization
+- Transaction history and reporting
+- Customer support ticket system
+- Compliance and audit trail features
 
 ## 📈 GitHub Stats
 
