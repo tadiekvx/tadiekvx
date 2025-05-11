@@ -7,7 +7,7 @@
 <div align="center">
   
   [![GitHub followers](https://img.shields.io/github/followers/tadiekvx?label=Follow&style=social)](https://github.com/tadiekvx)
-  [![LinkedIn](https://img.shields.io/badge/-Brandon%20K-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/brandon-k)](https://linkedin.com/in/brandon-k)
+  [![LinkedIn](https://img.shields.io/badge/-Brandon%20K-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/bkureya/)]([https://linkedin.com/in/brandon-k](https://www.linkedin.com/in/bkureya/))
   [![Email](https://img.shields.io/badge/-tadiekureya@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tadiekureya@gmail.com)](mailto:tadiekureya@gmail.com)
   
 </div>
