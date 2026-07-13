@@ -1,7 +1,7 @@
 # Hi there, I'm Brandon K! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Web+Development+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Business+Analyst+%26+Product+Owner;Digital+Transformation+%2B+Process+Reengineering;Full+Stack+Developer+by+background" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,51 +14,60 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a love for creating elegant solutions to complex problems. I specialize in web development with experience across the full stack, from building responsive front-end interfaces to architecting scalable back-end systems.
+I'm a Business Analyst and Product Owner working in management consulting, with a background in full stack development that shapes how I approach every engagement. I specialise in Business Process Reengineering (BPR), organisational design, digital transformation, and change management (ADKAR), primarily for public sector clients.
 
+My technical grounding means I don't just document requirements, I can prototype, validate feasibility with engineering teams, and speak fluently with developers about implementation constraints. That combination lets me bridge the gap between business stakeholders and technical delivery teams more effectively than a purely functional or purely technical profile could.
 
-## 🔥 Featured Projects
+## 🎯 What I Do
 
-### 🛒 Retail App
-*Modern retail management system with comprehensive inventory and sales tracking*
+- **Business Analysis & Process Reengineering:** Process mapping, gap analysis, requirements gathering, and diagnostic reporting for large scale organisational change
+- **Product Ownership:** Backlog management, user stories, prioritisation, and stakeholder alignment across digital transformation initiatives
+- **Change Management:** ADKAR-based change readiness assessments and adoption planning
+- **Technology Advisory:** Systems requirements specs, tool evaluation matrices, and digitalisation roadmaps
+- **Cloud & DevOps:** Microsoft Azure Administrator Associate (AZ-104) and Azure DevOps Engineer (AZ-400) certified
+- **ERP Consulting:** Microsoft Dynamics 365 Finance & Operations
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/tadiekvx/retail-app)
+## 🛠️ Technical Background
 
-**Tech Stack:** Full-stack solution for retail management
+The development experience underneath the BA work, kept sharp through personal projects and hands on prototyping.
 
-- Point-of-sale system with barcode scanning
-- Real-time inventory management
-- Sales reporting and analytics
-- Multi-user support with role-based permissions
-- Customer management and loyalty programs
+### Featured Projects
 
-### 🏥 Remote Care
-*Healthcare application for remote patient monitoring and telemedicine*
+**🛒 Retail App** — Point-of-sale and inventory management system with real-time stock tracking, sales reporting, and role-based multi-user support.
+[Repository](https://github.com/tadiekvx/retail-app)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/tadiekvx/remote-care)
+**🏥 Remote Care** — Telemedicine platform with video consultations, patient health tracking, prescription management, and appointment scheduling.
+[Repository](https://github.com/tadiekvx/remote-care)
 
-**Tech Stack:** Modern telemedicine platform
+**🏦 Bank Management System** — Enterprise banking software covering account management, loan processing, secure authentication, and compliance audit trails.
+[Repository](https://github.com/tadiekvx/BankManagement)
 
-- Video consultation capabilities
-- Patient health data tracking
-- Prescription management
-- Appointment scheduling system
-- Secure medical records storage
-- Real-time notifications for patients and providers
+### Languages & Frameworks
 
-### 🏦 Bank Management System
-*Comprehensive banking solution for modern financial institutions*
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=flat-square&logo=github)](https://github.com/tadiekvx/BankManagement)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-**Tech Stack:** Enterprise-level banking software
+</div>
 
-- Account management and transactions
-- Loan processing and management
-- Secure authentication and authorization
-- Transaction history and reporting
-- Customer support ticket system
-- Compliance and audit trail features
+### Tools & Platforms
+
+<div align="center">
+
+![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+</div>
 
 ## 📈 GitHub Stats
 
@@ -67,74 +76,15 @@ I'm a passionate developer with a love for creating elegant solutions to complex
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tadiekvx&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tadiekvx&theme=radical" alt="GitHub Streak">
-</div>
+## 🤝 Let's Connect
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 45 mins   ████████████░░░░░░░░░░░░░   48.5%
-PHP          4 hrs 12 mins   ██████░░░░░░░░░░░░░░░░░░░   23.3%
-Python       2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   13.9%
-HTML/CSS     1 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
-Other        0 hrs 45 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
-```
-<!--END_SECTION:waka-->
-
-## 🎯 Current Goals
-
-- 🌱 Learning: Advanced React patterns and TypeScript
-- 🔭 Working on: A real-time collaborative coding platform
-- 👯 Looking to collaborate on: Open source projects
-- 💬 Ask me about: JavaScript, PHP, Python, or web development
-- ⚡ Fun fact: I once fixed a bug by staring at it long enough
-
-## 🤝 Let's Connect!
-
-I'm always open to interesting conversations and collaboration opportunities. Whether you want to discuss technology, share a project idea, or just say hi, feel free to reach out!
+I'm always open to conversations about business analysis, digital transformation, or where technical and business perspectives meet. Feel free to reach out.
 
 <div align="center">
   
   [![Email](https://img.shields.io/badge/Email-tadiekureya@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tadiekureya@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Brandon%20K-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bkureya/)
   [![Twitter](https://img.shields.io/badge/Twitter-@tadiekvx-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tadiekvx)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-lightgrey?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
   
 </div>
 
@@ -142,10 +92,4 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tadiekvx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  <br/>
-  <br/>
-  
-  ⭐️ From [tadiekvx](https://github.com/tadiekvx)
-  
 </div>
