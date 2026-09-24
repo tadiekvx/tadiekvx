@@ -1,7 +1,7 @@
 # Hi there, I'm Brandon K! 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Business+Analyst+%26+Product+Owner;Digital+Transformation+%2B+Process+Reengineering;Full+Stack+Developer+by+background" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=Software+Developer;Full+Stack+%2B+Cloud+%26+DevOps;Digital+Transformation+by+background" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -14,33 +14,30 @@
 
 ## 🚀 About Me
 
-I'm a Business Analyst and Product Owner working in management consulting, with a background in full stack development that shapes how I approach every engagement. I specialise in Business Process Reengineering (BPR), organisational design, digital transformation, and change management (ADKAR), primarily for public sector clients.
+I'm a Software Developer with around five years of full stack experience across React, Node.js, PHP/Laravel, Java, C#, and Python. I build and ship web applications, and I'm comfortable working across the stack, from the database and APIs through to the user interface and cloud deployment.
 
-My technical grounding means I don't just document requirements, I can prototype, validate feasibility with engineering teams, and speak fluently with developers about implementation constraints. That combination lets me bridge the gap between business stakeholders and technical delivery teams more effectively than a purely functional or purely technical profile could.
+Alongside development, I've worked in ERP consulting and management consulting, mostly with public sector clients. That experience shapes how I build: I understand the business processes behind the software, I ask the right questions early, and I can turn messy real-world requirements into solutions that people actually adopt.
 
 ## 🎯 What I Do
 
-- **Business Analysis & Process Reengineering:** Process mapping, gap analysis, requirements gathering, and diagnostic reporting for large scale organisational change
-- **Product Ownership:** Backlog management, user stories, prioritisation, and stakeholder alignment across digital transformation initiatives
-- **Change Management:** ADKAR-based change readiness assessments and adoption planning
-- **Technology Advisory:** Systems requirements specs, tool evaluation matrices, and digitalisation roadmaps
-- **Cloud & DevOps:** Microsoft Azure Administrator Associate (AZ-104) and Azure DevOps Engineer (AZ-400) certified
-- **ERP Consulting:** Microsoft Dynamics 365 Finance & Operations
+- **Full Stack Development:** Designing and building web applications with React, Node.js, Laravel, Java, C#, and Python
+- **Cloud & DevOps:** Deploying and managing applications on Azure, backed by Microsoft Azure Administrator Associate (AZ-104) and Azure DevOps Engineer (AZ-400) certifications
+- **ERP & Enterprise Systems:** Microsoft Dynamics 365 Finance & Operations development and consulting
+- **Prototyping & Technical Advisory:** Rapidly prototyping ideas, evaluating tools, and validating technical feasibility before teams commit to a build
+- **Digital Transformation:** Applying software to process reengineering and organisational change, with change management (ADKAR) awareness so solutions get adopted
 
-## 🛠️ Technical Background
+## 🛠️ Featured Projects
 
-The development experience underneath the BA work, kept sharp through personal projects and hands on prototyping.
-
-### Featured Projects
-
-**🛒 Retail App** — Point-of-sale and inventory management system with real-time stock tracking, sales reporting, and role-based multi-user support.
+**🛒 Retail App**: Point-of-sale and inventory management system with real-time stock tracking, sales reporting, and role-based multi-user support.
 [Repository](https://github.com/tadiekvx/retail-app)
 
-**🏥 Remote Care** — Telemedicine platform with video consultations, patient health tracking, prescription management, and appointment scheduling.
+**🏥 Remote Care**: Telemedicine platform with video consultations, patient health tracking, prescription management, and appointment scheduling.
 [Repository](https://github.com/tadiekvx/remote-care)
 
-**🏦 Bank Management System** — Enterprise banking software covering account management, loan processing, secure authentication, and compliance audit trails.
+**🏦 Bank Management System**: Enterprise banking software covering account management, loan processing, secure authentication, and compliance audit trails.
 [Repository](https://github.com/tadiekvx/BankManagement)
+
+## 💻 Tech Stack
 
 ### Languages & Frameworks
 
@@ -78,7 +75,7 @@ The development experience underneath the BA work, kept sharp through personal p
 
 ## 🤝 Let's Connect
 
-I'm always open to conversations about business analysis, digital transformation, or where technical and business perspectives meet. Feel free to reach out.
+I'm always open to conversations about software development, cloud and DevOps, digital transformation, or where technical and business perspectives meet. Feel free to reach out.
 
 <div align="center">
   
